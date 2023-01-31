@@ -1,4 +1,4 @@
-package com.demo;
+package demo;
 import java.io.*;
 
 public class Employee {

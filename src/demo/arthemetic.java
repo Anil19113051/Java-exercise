@@ -1,4 +1,4 @@
-package com.demo;
+package demo;
 
 public class arthemetic {
     public int add(int a, int b){
